@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+<ProductName>D3DOH_PVC_12</ProductName>
+<ProductVersion>000001</ProductVersion>
+</Parts>
+	<Part>
+		<PartName>ControlBoard_RAMPS_0001</PartName>
+		<PartQuantity>1</PartQuantity>
+		<PartDBRef>0001</PartDBRef>
+		<AssemblyInstructions_HR>D3DOH_PVC_12_FinalAssym_ControlBoard_HR.pdf</AssemblyInstructions_HR>
+			<AssemblyInstructions_HR_Station>WorkBench-D3D</AssemblyInstructions_HR_Station> 
+				<AssemblyInstructions_HR_Station_Comments>Need to screw in parts and do electrical connections.</AssemblyInstructions_HR_Station_Comments> 
+		<AssemblyInstructions_A>D3DOH_PVC_12_FinalAssym_ControlBoard__A.xml</AssemblyInstructions_A>
+			<AssemblyInstructions_A_Station_Station>RobotArmWorkbench</AssemblyInstructions_A_Station> 			
+	</Part>	
+	<Part>
+		<PartName>Universal_Axis_12Inch_0001</PartName>
+		<PartQuantity>5</PartQuantity>
+		<PartDBRef>0001</PartDBRef>
+		<AssemblyInstructions_HR>D3DOH_PVC_12_FinalAssym_HR.pdf</AssemblyInstructions_HR>
+			<AssemblyInstructions_HR_Station>WorkBench-D3D</AssemblyInstructions_HR_Station> 
+				<AssemblyInstructions_HR_Station_Comments>Screw in Uaxis units to predrilled hardpoints</AssemblyInstructions_HR_Station_Comments> 
+		<AssemblyInstructions_A>D3DOH_PVC_12_FinalAssym_A.xml</AssemblyInstructions_A>
+			<AssemblyInstructions_A_Station>RobotArmWorkbench</AssemblyInstructions_A_Station> 			
+	</Part>
+	<Part>
+		<PartName>D3DOH_PVC_12_PVC_FRAME</PartName>
+		<PartQuantity>5</PartQuantity>
+		<PartDBRef>0001</PartDBRef>
+		<AssemblyInstructions_HR>D3DOH_PVC_12_FinalAssym_HR.pdf</AssemblyInstructions_HR>
+			<AssemblyInstructions_HR_Station>WorkBench-D3D</AssemblyInstructions_HR_Station> 
+				<AssemblyInstructions_HR_Station_Comments>Need to screw in parts and do electrical connections. Will I make asym instruction files hold
+				parts that will be used as fixatives in an assym? like here there are several screws involved that are also parts that need delivered here</AssemblyInstructions_HR_Station_Comments> 
+		<AssemblyInstructions_A>D3DOH_PVC_12_FinalAssym_A.xml</AssemblyInstructions_A>
+			<AssemblyInstructions_A_Station>RobotArmWorkbench</AssemblyInstructions_A_Station> 			
+	</Part>	
+<Parts>
+</Product>

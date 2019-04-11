@@ -1,0 +1,4 @@
+machine database schema
+
+this will hold the data for a machine.
+critical pieces of a machine are
