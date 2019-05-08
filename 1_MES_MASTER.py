@@ -14,10 +14,14 @@ Description:
     
 """
 
-
-"""
-
 """
 Workplan:
-    
+1. read database - execute a query (where, some INI file?) to 
+2. do I use XML or INI for not for config? not secure... ideally I have a UI and a proper application database... using this ui you would set all sorts of things    
+"""
+
+
+
+"""
+Here test out grabbing SQL data and processing it
 """
